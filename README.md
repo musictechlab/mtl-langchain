@@ -1,5 +1,7 @@
 # LangChain Experiments at MTL
 
+[![Built by MusicTech Lab](https://musictechlab.io/oss/build-by-musictechlab.io.svg)](https://musictechlab.io)
+
 This project demonstrates how to use the LangChain OpenAI API to translate text from English to Polish.
 
 ## Prerequisites
